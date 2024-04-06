@@ -1,2 +1,2 @@
-n=input("enter your name")
-print("hello gusy welcome to first class",$n)
+n=input("hello gusy whats happen")
+print("hello gusy welcome to first clasn)
